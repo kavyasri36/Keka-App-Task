@@ -1,0 +1,13 @@
+Pending Expenses
+Past Claims
+Advance Requests
+Expenses to be Claimed
+The following are the expenses that you are yet to claim
++ Add an Expense
+No saved expenses to show.
+Expense claims in process
+The following are the expense claims that are yet to be approved or yet to be paid are shown here
+No pending expenses claims to show.
+Advance settlements in process
+The following are the advance settlements that are yet to be approved or yet to be paid are shown here
+No pending expenses claims to show.

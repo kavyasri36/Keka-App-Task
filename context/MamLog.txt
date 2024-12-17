@@ -1,0 +1,7 @@
+[2024-07-24T07:59:41.106Z] [INFO] ========================================================================================================================
+[2024-07-24T07:59:41.106Z] [INFO] MAM Client v2.0.458.0
+[2024-07-24T07:59:41.106Z] [INFO] Telemetry session a8b26e10-8593-4fe0-8873-3f217d864ad5.
+[2024-07-24T07:59:41.107Z] [INFO] Initializing cache (v1).
+[2024-07-24T07:59:48.526Z] [INFO] Shutting down.
+[2024-07-24T07:59:48.526Z] [INFO] Stopping the task scheduler and canceling any outstanding work items...
+[2024-07-24T07:59:48.526Z] [INFO] Task scheduler has stopped, and all work has been canceled.

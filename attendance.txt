@@ -1,0 +1,72 @@
+Attendance Stats
+Last Week
+Me
+AVG HRS / DAY
+7h 20m
+ON TIME ARRIVAL
+100%
+My Team
+8h 31m
+98%
+Timings
+M
+T
+W
+T
+F
+S
+S
+Today (11:00 AM - 8:00 PM)
+Duration: 9h 0m
+Break: 60 Min
+Actions
+11:39:41
+AM
+Tue 11, Jun 2024
+Web Clock-In
+Work From Home
+On Duty
+Partial Day
+Logs & Requests
+24 hour format
+Attendance Log
+Shift Schedule
+Attendance Requests
+Last 30 Days
+30 DAYS
+MAY
+APR
+MAR
+FEB
+JAN
+DEC
+DATE
+ATTENDANCE VISUAL
+GROSS HOURS
+ARRIVAL
+LOG
+Jun 11, Tue
+0h 0m +
+On Time
+Jun 10, Mon
+8h 49m
+On Time
+Full day Weekly-off
+Jun 09, SunW-OFF
+Full day Weekly-off
+Jun 08, SatW-OFF
+Jun 07, Fri
+9h 0m
+On Time
+Jun 06, Thu
+8h 58m
+On Time
+Jun 05, Wed
+9h 5m
+On Time
+Jun 04, Tue
+12h 16m
+On Time
+Jun 03, Mon
+8h 0m
+On Time

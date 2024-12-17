@@ -1,0 +1,10 @@
+App Registration
+Third party app registration to make best use of Keka
+Teams Meeting
+by Keka
+This allows users to join the meeting from keka using teams meeting link or from teams when a meeting is scheduled in keka, with features such as recurring meetings, action items and note-taking.
+Connect
+Outlook Calendar
+by Keka
+Outlook 365 enables employees to manage their meeting schedules by providing features such as checking other employees' availability, scheduling or canceling meetings, and staying in sync with meeting schedule
+Connect
