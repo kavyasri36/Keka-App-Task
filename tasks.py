@@ -6,8 +6,8 @@ from cookies import *
 from pathlib import Path
 
 browser=Selenium()
-input= "Kavya.Sri@esolutionsfirst.com"
-passwd="KSR@0329"
+input= ""
+passwd=""
 comment="Robocorp Libraries Documentation"
 
 @task
