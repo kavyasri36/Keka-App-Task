@@ -36,14 +36,14 @@ def open_keka_me():
  
 def log_in():
     browser=Selenium()
-    browser.input_text("//input[@id='i0116']","Kavya.Sri@esolutionsfirst.com")
+    browser.input_text("//input[@id='i0116']","")
     print("email entered")
     time.sleep(2)
     # time.sleep(20)
     browser.click_button("//input[@id='idSIButton9']")
     print("click on Next")
     time.sleep(2)
-    browser.input_password("//*[@id='i0118']","KSR@0329")
+    browser.input_password("//*[@id='i0118']","")
     print("password entered")
     browser.click_button("//input[@id='idSIButton9']")
     print("click on submit")
